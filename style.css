@@ -1,0 +1,11 @@
+body {
+  background-image: url("images/drumms.png");
+}
+
+.key {
+  color: aliceblue;
+}
+
+#boom {
+  color: aqua;
+}
